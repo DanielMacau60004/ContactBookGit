@@ -1,7 +1,7 @@
 # ContactBookGit
-This is a starter kit for the first lab of the Software Engineering Course.
-Fork this project to make your own version of it.
+Projeto desenvolvido na aula pratica da cadeira de Engenharia de Software.
 
-Artur Horal 59744
-Daniel Macau 60004
-Vasco Fonseca 60814
+**Autores**
+- Artur Horal 59744
+- Daniel Macau 60004
+- Vasco Fonseca 60814
